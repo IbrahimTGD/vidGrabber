@@ -1,6 +1,10 @@
 * {
     text-align: center;
 }
+
+body {
+   background-image: url("https://ividgrabbr.netlify.app/backgroundOcean.jpg");   
+}
 .heading {
     font-family: Arial;
     margin-top:40vh;
